@@ -1,0 +1,12 @@
+# RStudio project files
+.Rproj.user/
+test_scripts/
+
+# R history and environment files
+.Rhistory
+.RData
+*.Rproj
+
+
+# Log files
+*.Rout
