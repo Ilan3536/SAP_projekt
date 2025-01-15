@@ -4,7 +4,7 @@
 
 # Odg:
 # Postoje vrlo značajne razlike u oblicima dijabetesa 
-# ovisno o zdravlju gušterače bolesnika p-val < 2e-16
+# ovisno o širini struka bolesnika p-val < 2e-16
 
 library(here)
 library(ggplot2)
